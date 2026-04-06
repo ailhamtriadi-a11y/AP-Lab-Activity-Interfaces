@@ -1,1 +1,1 @@
-"# AP-Lab-Activity-Interfaces" 
+Payable muncul dikarenakan Employee dan Invouce tidak memiliki hubungan satu sama lain jadi digunakan agar kedua belah pihak agar dapat saling berhubungan dan dengan tambahan houryemployee agar sesuai kreteria yang diingikan agar ketiga pihak bisa saling berhubungan menggunakan payable dan untuk agar bisa berjalan tanpa saling merusak kelas masing masing saya menggunakan interfaces
