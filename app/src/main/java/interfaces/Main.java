@@ -13,6 +13,7 @@ public class Main {
         accountsPayable.add(new Invoice("Widget-99", 5, 20.00));
         accountsPayable.add(new SalariedEmployee("Bob Jones", "E002", 1500.00));
         accountsPayable.add(new Invoice("Hammer-01", 2, 15.50));
+        accountsPayable.add(new HourlyEmployee("Charlie Brown", "E003", 25.00, 45.00));
 
         System.out.println("Processing Payments:\n---------------------");
 
